@@ -1,0 +1,17 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/handy-http-starter
+handy-http-starter.so
+handy-http-starter.dylib
+handy-http-starter.dll
+handy-http-starter.a
+handy-http-starter.lib
+handy-http-starter-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
+*.a
