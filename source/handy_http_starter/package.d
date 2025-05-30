@@ -2,6 +2,8 @@ module handy_http_starter;
 
 public import handy_http_transport;
 public import handy_http_primitives;
+public import handy_http_data;
+public import handy_http_websockets;
 
 /**
  * Starts an HTTP server, using the given handler to handle all incoming
