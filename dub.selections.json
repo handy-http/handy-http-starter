@@ -5,14 +5,14 @@
 		"dxml": "0.4.4",
 		"handy-http-data": "1.2.0",
 		"handy-http-primitives": "1.6.0",
-		"handy-http-transport": "1.1.0",
-		"handy-http-websockets": "1.1.0",
-		"mir-algorithm": "3.22.3",
-		"mir-core": "1.7.1",
-		"photon": "0.10.2",
+		"handy-http-transport": "1.2.1",
+		"handy-http-websockets": "1.1.1",
+		"mir-algorithm": "3.22.4",
+		"mir-core": "1.7.3",
+		"photon": "0.11.0",
 		"sharded-map": "2.7.0",
 		"silly": "1.1.1",
-		"slf4d": "4.0.0",
+		"slf4d": "4.1.1",
 		"streams": "3.6.0"
 	}
 }
