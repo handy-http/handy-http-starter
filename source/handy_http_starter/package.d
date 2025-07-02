@@ -13,7 +13,7 @@ public import handy_http_websockets;
  *   port = The port to host the server on. Defaults to 8080.
  */
 void startServer(HttpRequestHandler handler, ushort port = 8080) {
-    HttpTransport tp = new Http1Transport(handler, port);
+    HttpTransport tp = new TaskPoolHttp1Transport(handler, port);
     tp.start();
 }
 
