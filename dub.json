@@ -4,10 +4,11 @@
 	],
 	"copyright": "Copyright © 2025, Andrew Lalis",
 	"dependencies": {
-		"handy-http-primitives": "~>1.6",
-		"handy-http-transport": "~>1.1",
+		"handy-http-primitives": "~>1.8",
+		"handy-http-transport": "~>1.6",
 		"handy-http-data": "~>1.2",
-		"handy-http-websockets": "~>1.1",
+		"handy-http-websockets": "~>1.2",
+		"handy-http-handlers": "~>1.0",
 		"slf4d": "~>4.0"
 	},
 	"description": "A collection of Handy-HTTP dependencies and common boilerplate code for starting a web server in minutes.",

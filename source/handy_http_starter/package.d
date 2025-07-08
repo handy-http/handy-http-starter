@@ -4,6 +4,7 @@ public import handy_http_transport;
 public import handy_http_primitives;
 public import handy_http_data;
 public import handy_http_websockets;
+public import handy_http_handlers;
 
 /**
  * Starts an HTTP server, using the given handler to handle all incoming
